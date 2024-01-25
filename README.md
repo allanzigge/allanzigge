@@ -1,5 +1,4 @@
-### Hi there 👋
-![image](https://github.com/allanzigge/allanzigge/assets/118464722/ffc0df4b-676e-4e71-83b3-4915d4105c2f)
+![github-header-image](https://github.com/allanzigge/allanzigge/assets/118464722/fcf7ab6f-1631-4ed3-be19-2cae4710fac4)
 
 <!--
 **allanzigge/allanzigge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
