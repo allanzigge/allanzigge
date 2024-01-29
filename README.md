@@ -20,22 +20,9 @@
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 
 
-
-
-
-
-<a href="#"><img alt="Java" src=""></a>
-
-
-
-
-
-
-
-
-
-
 <!--
+<a href="#"><img alt="SOMETHING" src=""></a>
+
 **allanzigge/allanzigge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
