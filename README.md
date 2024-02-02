@@ -14,7 +14,7 @@
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white"></a>
 
-#### Frameworks and PLatforms
+#### Frameworks and Platforms
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
 <a href="#"><img alt="DOTNET" src="https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=dotnet"></a>
 
