@@ -25,7 +25,9 @@
 <a href="#"><img alt="F-Sharp" src="https://img.shields.io/badge/F%23-378bba?style=for-the-badge&logo=fsharp&logoColor=white"></a>
 <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter"></a>
 <a href="#"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"></a>
- 
+<a href="#"><img alt="Jira" src="https://img.shields.io/badge/Supabase-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white"></a>
+
+
 
 <!--
 website for badges: https://shields.io/badges
