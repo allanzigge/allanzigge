@@ -23,6 +23,8 @@
 
 #### Currently Learning/Workning with
 <a href="#"><img alt="F-Sharp" src="https://img.shields.io/badge/F%23-378bba?style=for-the-badge&logo=fsharp&logoColor=white"></a>
+<a href="#"><img alt="Flutter" src="https://img.shields.io/badge/F%23-378bba?style=for-the-badge&logo=flutter&logoColor=#02569B"></a>
+ flutter
 
 <!--
 website for badges: https://shields.io/badges
