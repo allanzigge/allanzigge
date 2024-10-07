@@ -29,7 +29,7 @@
 
 
 
-
+<!--
 ## Platforms I use
 [![My Skills](https://skillicons.dev/icons?i=git,github,idea,vscode,unity,wordpress,linkedin,discord)](https://skillicons.dev)
 
@@ -41,7 +41,7 @@
 
 ## Looking forward to learn
 [![My Skills](https://skillicons.dev/icons?i=mongodb,flutter)](https://skillicons.dev)
-<!--
+
 website for badges: https://shields.io/badges
 
 <a href="#"><img alt="SOMETHING" src=""></a>
