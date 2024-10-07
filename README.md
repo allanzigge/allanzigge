@@ -28,6 +28,19 @@
 <a href="#"><img alt="PostGreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 
 
+
+
+## Platforms I use
+[![My Skills](https://skillicons.dev/icons?i=git,github,idea,vscode,unity,wordpress,linkedin,discord)](https://skillicons.dev)
+
+## Languages and tools i use
+[![My Skills](https://skillicons.dev/icons?i=py,cs,php,html,css,bootstrap,mysql,java,gradle)](python, c#, php, html - css)
+
+## Currently learning
+[![My Skills](https://skillicons.dev/icons?i=js,react,firebase,postgres,go,bash,azure,dotnet)](https://skillicons.dev)
+
+## Looking forward to learn
+[![My Skills](https://skillicons.dev/icons?i=mongodb,flutter)](https://skillicons.dev)
 <!--
 website for badges: https://shields.io/badges
 
