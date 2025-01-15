@@ -31,7 +31,11 @@
 <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003b57?style=for-the-badge&logo=sqlite&logoColor=white"></a>
 
 
-<!--   website for badges: https://shields.io/badges
+<!--   website for badges: 
+https://shields.io/badges
+
+https://simpleicons.org/
+
 
 **allanzigge/allanzigge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
