@@ -3,10 +3,10 @@
 ## 📌 Pinned Repositories
 
 
-<a href="https://github.com/Junkfood-dk/JunkFoodApp">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Junkfood-dk&repo=JunkFoodApp&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Junkfood-dk/JunkFoodApp" >
+  <img align="center" style="margin: 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Junkfood-dk&repo=JunkFoodApp&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
+&nbsp;
 <a href="https://github.com/Junkfood-dk/JunkFoodAdmin">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Junkfood-dk&repo=JunkFoodAdmin&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -14,11 +14,11 @@
 <br>
 <br>
 
-<a href="https://github.com/braydoncoyer/ng-limeade">
+<a href="https://github.com/ITU-BDSA23-GROUP12/Chirp">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ITU-BDSA23-GROUP12&repo=Chirp&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
-<a href="https://github.com/braydoncoyer/officeapi">
+&nbsp;
+<a href="https://github.com/allanzigge/Danmarkskort">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=allanzigge&repo=danmarkskort&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
@@ -55,10 +55,10 @@
     <td valign="top" style="width: 50%;">
       <h3>My Dev Toolkit</h3>
       <hr>
-      <img src="https://skillicons.dev/icons?i=github,git,vscode,postman,docker" /><br>
+      <img src="https://skillicons.dev/icons?i=github,git,vscode,githubactions,docker" /><br>
       <h3>Database</h3>
       <hr>
-      <img src="https://skillicons.dev/icons?i=postgres,prisma,mysql,sqlite" />
+      <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,sqlite" />
     </td>
   </tr>
 </table>
