@@ -1,6 +1,6 @@
 ![github-header-image](https://github.com/allanzigge/allanzigge/assets/118464722/fcf7ab6f-1631-4ed3-be19-2cae4710fac4)
 
-## 📌 Pinned Repositories
+## Pinned Repositories
 
 
 <a href="https://github.com/Junkfood-dk/JunkFoodApp" >
@@ -25,7 +25,7 @@
 <br>
 <br>
 
-## &#x1f4c8; GitHub Stats
+## GitHub Stats
 
 <a href="https://github.com/allanzigge">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanzigge&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -42,7 +42,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,react,mysql,git,github)](https://skillicons.dev)
 
 
-<table style="width: 100%;">
+<table>
   <tr>
     <td valign="top" style="width: 50%;">
       <h3>Language Experience</h3>
