@@ -38,22 +38,52 @@
 <br>
 <br>
 
+## Currently Workning with
+[![My Skills](https://skillicons.dev/icons?i=py,react,mysql,git,github)](https://skillicons.dev)
 
+
+<table style="width: 100%;">
+  <tr>
+    <td valign="top" style="width: 50%;">
+      <h3>Language Experience</h3>
+      <hr>
+      <img src="https://skillicons.dev/icons?i=cs,c,dotnet,py,java,go" /><br><br>
+      <h3>Frameworks & Platforms</h3>
+      <hr>
+      <img src="https://skillicons.dev/icons?i=flutter,react,dotnet,azure" />
+    </td>
+    <td valign="top" style="width: 50%;">
+      <h3>My Dev Toolkit</h3>
+      <hr>
+      <img src="https://skillicons.dev/icons?i=github,git,vscode,postman,docker" /><br><br>
+      <h3>Database</h3>
+      <hr>
+      <img src="https://skillicons.dev/icons?i=postgres,prisma,mysql,sqlite" />
+    </td>
+  </tr>
+</table>
+
+
+
+
+<!--
 ## Currently Workning with
 [![My Skills](https://skillicons.dev/icons?i=py,react,mysql,git,github)](https://skillicons.dev)
 
 ## Language Experiences
 [![My Skills](https://skillicons.dev/icons?i=cs,c,dotnet,py,java,go)](https://skillicons.dev) <!-- FSHARP -->
 
+<!--
 ## My Dev Toolkit
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,githubactions,docker)](https://skillicons.dev)
 
 ## Frameworks & Platforms
 [![My Skills](https://skillicons.dev/icons?i=flutter,react,dotnet,azure)](https://skillicons.dev)  <!-- JIRA -->
 
+<!--
 ## Database
 [![My Skills](https://skillicons.dev/icons?i=postgres,supabase,mysql,sqlite)](https://skillicons.dev)
-
+-->
 
 
 
