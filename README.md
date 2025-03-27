@@ -47,7 +47,7 @@
     <td valign="top" style="width: 50%;">
       <h3>Language Experience</h3>
       <hr>
-      <img src="https://skillicons.dev/icons?i=cs,c,dotnet,py,java,go" /><br><br>
+      <img src="https://skillicons.dev/icons?i=cs,c,dotnet,py,java,go" /><br>
       <h3>Frameworks & Platforms</h3>
       <hr>
       <img src="https://skillicons.dev/icons?i=flutter,react,dotnet,azure" />
@@ -55,7 +55,7 @@
     <td valign="top" style="width: 50%;">
       <h3>My Dev Toolkit</h3>
       <hr>
-      <img src="https://skillicons.dev/icons?i=github,git,vscode,postman,docker" /><br><br>
+      <img src="https://skillicons.dev/icons?i=github,git,vscode,postman,docker" /><br>
       <h3>Database</h3>
       <hr>
       <img src="https://skillicons.dev/icons?i=postgres,prisma,mysql,sqlite" />
