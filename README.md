@@ -1,8 +1,9 @@
+
 ![github-header-image](https://github.com/allanzigge/allanzigge/assets/118464722/fcf7ab6f-1631-4ed3-be19-2cae4710fac4)
-
+ 
 ## Pinned Repositories
-
-
+ 
+ 
 <a href="https://github.com/Junkfood-dk/JunkFoodApp" >
   <img align="center" style="margin: 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Junkfood-dk&repo=JunkFoodApp&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -10,10 +11,10 @@
 <a href="https://github.com/Junkfood-dk/JunkFoodAdmin">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Junkfood-dk&repo=JunkFoodAdmin&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
+ 
 <br>
 <br>
-
+ 
 <a href="https://github.com/ITU-BDSA23-GROUP12/Chirp">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ITU-BDSA23-GROUP12&repo=Chirp&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -21,51 +22,56 @@
 <a href="https://github.com/allanzigge/Danmarkskort">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=allanzigge&repo=danmarkskort&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
+ 
 <br>
 <br>
-
+ 
 ## GitHub Stats
-
+ 
 <a href="https://github.com/allanzigge">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanzigge&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
+ 
 <a href="https://github.com/allanzigge">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=allanzigge&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Allan's GitHub Stats" />
 </a>
-
+ 
 <br>
 <br>
-
+ 
 ## Currently Working with
 [![My Skills](https://skillicons.dev/icons?i=py,react,mysql,git,github)](https://skillicons.dev)
-
-
+ 
+ 
 <table>
   <tr>
     <td valign="top" style="width: 50%;">
-      <h3>Language Experience</h3>
+      <h3 style="text-align:center">Language Experience</h3>
       <hr>
+      <div style="text-align:center">
       <img src="https://skillicons.dev/icons?i=cs,c,dotnet,py,java,go" /><br> <!-- f sharp -->
+      </div>
       <h3>Frameworks & Platforms</h3>
       <hr>
-      <img src="https://skillicons.dev/icons?i=flutter,react,dotnet,azure" /> 
+      <div style="text-align:center">
+        <img src="https://skillicons.dev/icons?i=flutter,react,dotnet,azure" />
+      </div>
     </td>
     <td valign="top" style="width: 50%;">
       <h3>My Dev Toolkit</h3>
       <hr>
-      <img src="https://skillicons.dev/icons?i=github,git,vscode,githubactions,docker" /><br> <!--JIRA-->
+      <div style="text-align:center">
+        <img src="https://skillicons.dev/icons?i=github,git,vscode,githubactions,docker" /><br> <!--JIRA-->
+      </div>
       <h3>Database</h3>
       <hr>
-      <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,sqlite" />
+      <div style="text-align:center">
+        <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,sqlite" />
+      </div>
     </td>
   </tr>
 </table>
-
-
-
-
+ 
 <!--
 ## Currently Workning with
 [![My Skills](https://skillicons.dev/icons?i=py,react,mysql,git,github)](https://skillicons.dev)
