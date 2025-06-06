@@ -38,7 +38,7 @@
 <br>
 <br>
 
-## Currently Workning with
+## Currently Working with
 [![My Skills](https://skillicons.dev/icons?i=py,react,mysql,git,github)](https://skillicons.dev)
 
 
