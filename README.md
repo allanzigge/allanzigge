@@ -1,6 +1,6 @@
 
-![github-header-image](https://github.com/allanzigge/allanzigge/assets/118464722/fcf7ab6f-1631-4ed3-be19-2cae4710fac4)
- 
+ <img width="3400" height="920" alt="net" src="https://github.com/user-attachments/assets/c78f8e77-baab-4788-bb9d-921983d1347b" />
+
 ## Pinned Repositories
  
  
